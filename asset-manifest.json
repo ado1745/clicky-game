@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.6e75493a.chunk.css",
+    "main.js": "/clicky-game/static/js/main.d1058c2a.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.d1058c2a.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.160f185f.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.160f185f.js.map",
+    "static/js/2.29f3d0f3.chunk.js": "/clicky-game/static/js/2.29f3d0f3.chunk.js",
+    "static/js/2.29f3d0f3.chunk.js.map": "/clicky-game/static/js/2.29f3d0f3.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.3d9f04e9da6d86c5ac45a43565f43436.js": "/clicky-game/precache-manifest.3d9f04e9da6d86c5ac45a43565f43436.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.6e75493a.chunk.css.map": "/clicky-game/static/css/main.6e75493a.chunk.css.map",
+    "static/media/beth.png": "/clicky-game/static/media/beth.1459edf7.png",
+    "static/media/bg.png": "/clicky-game/static/media/bg.7ad8b746.png",
+    "static/media/birdperson.png": "/clicky-game/static/media/birdperson.f4b93973.png",
+    "static/media/evilmorty.png": "/clicky-game/static/media/evilmorty.67243a28.png",
+    "static/media/gianthead.png": "/clicky-game/static/media/gianthead.33d58e9a.png",
+    "static/media/goldenford.png": "/clicky-game/static/media/goldenford.98a2f8cc.png",
+    "static/media/jerry.png": "/clicky-game/static/media/jerry.8ae281e0.png",
+    "static/media/jessica.png": "/clicky-game/static/media/jessica.573621a8.png",
+    "static/media/meeseeks.png": "/clicky-game/static/media/meeseeks.a8011517.png",
+    "static/media/morty.png": "/clicky-game/static/media/morty.0b4f73c7.png",
+    "static/media/mr.png": "/clicky-game/static/media/mr.5a3b9b8a.png",
+    "static/media/rick.png": "/clicky-game/static/media/rick.5065d79a.png",
+    "static/media/summer.png": "/clicky-game/static/media/summer.3a86ea87.png"
+  }
+}
